@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm, RipuDamanSingh
 #### I'm RipuDaman from India, and I do web development. I really enjoy learning languages and frameworks like php and Larevel, as well as work in WordPress. I also have working knowledge of Digital Marketing in general.
-![I'm RipuDaman from India, and I do web development. I really enjoy learning languages and frameworks like php and Larevel, as well as work in WordPress. I also have working knowledge of Digital Marketing in general.]
+
 
 
 Skills: Php / MySql / JS / HTML / CSS / Python
