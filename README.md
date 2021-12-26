@@ -2,7 +2,6 @@
 #### I'm RipuDaman from India, and I do web development. I really enjoy learning languages and frameworks like php and Larevel, as well as work in WordPress. I also have working knowledge of Digital Marketing in general.
 ![I'm RipuDaman from India, and I do web development. I really enjoy learning languages and frameworks like php and Larevel, as well as work in WordPress. I also have working knowledge of Digital Marketing in general.]
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills: Php / MySql / JS / HTML / CSS / Python
 
