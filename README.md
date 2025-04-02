@@ -25,8 +25,9 @@
    - [Repository Link](https://github.com/Ripu110/financial-dashboard)
 
 #### Education:
-- **Bachelor of Science in Computer Science** - University of Delhi
-- **Data Science Certification** - Coursera
+- **Bachelor of Science in Computer Science** - GGSIP University, Dwarka
+- **Master of Business Administration** - GGSIP University, Dwarka
+- **Business Analytics Certification** - IMS Proschool, Karkardooma
 
 #### Contact:
 - **Email**: ripu111daman@gmail.com
