@@ -5,7 +5,7 @@
 
 #### Skills:
 - **Programming Languages**: Python, R
-- **Databases**: MySQL, PostgreSQL
+- **Databases**: MySQL, PostgreSQL, MySQL Server
 - **Data Visualization**: Tableau, Power BI, Matplotlib, Seaborn
 - **Data Analysis**: Pandas, NumPy, Scikit-Learn
 - **Web Development**: HTML, CSS, JavaScript
