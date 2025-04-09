@@ -33,6 +33,6 @@
 - **Email**: ripu111daman@gmail.com
 - **LinkedIn**: [RipuDamanSingh](https://www.linkedin.com/in/ripudaman-singh/)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ripu110&show_icons=true&count_private=true)
+
 
 ![Profile views](https://gpvc.arturio.dev/Ripu110)
